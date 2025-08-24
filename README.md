@@ -1,6 +1,4 @@
 <!-- Organização do meu readme  -->
-<img src="Imagem_inicial.png" style="display: block; margin: 0 auto;">
+<img src="Imagem_inicial.png">
 
-<div style="align: center;">
-  <h1 style="font-size: 50px;">🧑🏻‍💻 Suanderson Santos</h1>
-</div>
+<h1 style="font-size: 50px;">🧑🏻‍💻 Suanderson Santos</h1>
