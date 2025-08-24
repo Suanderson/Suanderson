@@ -1,3 +1,4 @@
-## Suanderson 👋
+<!-- Organização do meu readme  -->
+![Foto cabeçalho](imagem_inicial.png)
 
-<img src="Suanderson Silva (1).gif">
+<h1 style="font-size:50; display:flex; text-align: center; justify-content: center;">🧑🏻‍💻 Suanderson Santos<h1\>
