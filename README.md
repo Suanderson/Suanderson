@@ -11,17 +11,14 @@
  
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-    <img  alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- 
+    <img  alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Suanderson?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Suanderson?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Suanderson?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Suanderson?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Suanderson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a> 
-
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Suanderson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Suanderson">
   <img 
     src="https://visitor-badge.laobi.icu/badge?page_id=Suanderson.Suanderson&" 
