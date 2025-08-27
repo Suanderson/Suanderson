@@ -9,7 +9,7 @@
 <!-- Acessos -->
 
  
-<div style="display: flex; justify-content: center; gap: 5px; align-items: center; align:center">
+<p align="center">
   <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
     <img  alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -31,7 +31,7 @@
 </a>
 
 
-</div>
+</p>
 
 
 
