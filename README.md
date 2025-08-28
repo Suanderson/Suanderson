@@ -68,7 +68,6 @@
  
   <img alt="Top Languages" height="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suanderson&theme=transparent&hide_border=true&layout=compact&border_radius=10&langs_count=8&bg_color=202124&title_color=36BCF7FF&text_color=ffffff&icon_color=36BCF7FF&&locale=pt-br"  />
 </p>
-<br>
 
 
 <!-- Estatísticas de sequência de leituras do Github -->
@@ -85,7 +84,7 @@
 
 
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Suanderson&bg_color=202124&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&locale=pt-br&border_radius=10" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Suanderson&bg_color=202124&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true&locale=pt-br&border_radius=10&title_color=FFFFFF" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
