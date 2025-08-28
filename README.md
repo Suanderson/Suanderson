@@ -78,17 +78,7 @@
 </p>
 
 
-
-
-
-
-
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Suanderson&bg_color=202124&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true&locale=pt-br&border_radius=10&title_color=FFFFFF" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suanderson&theme=react&line=006aff&bg_color=202124&border_radius=10&hide_border=true&point=35b2e8&title_color=36BCF7FF&color=36BCF7FF)
 
   
    
