@@ -63,7 +63,7 @@
 <!-- Estatísticas de sequência de leituras do Github -->
 <p align=center>
 
-<img title="Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Suanderson&theme=transparent&hide_border=true&short_numbers=true&locale=pt-br&ring=36BCF7F&border_radius=10&stroke=36BCF7FF&currStreakNum=36BCF7FF&sideNums=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&fire=36BCF7F&card_width=1000&card_height=200&hide_border=false"/>
+<img title="Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Suanderson&theme=transparent&hide_border=true&short_numbers=true&locale=pt-br&ring=36BCF7F&border_radius=10&stroke=36BCF7FF&currStreakNum=36BCF7FF&sideNums=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&fire=36BCF7F&card_width=1000&card_height=200&hide_border=false&border=36BCF7FF"/>
  
 </p>
 
