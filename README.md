@@ -19,13 +19,7 @@
   <a href="https://github.com/Suanderson?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Suanderson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://github.com/Suanderson">
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=Suanderson.Suanderson&" 
-    style="height:28px; min-width:130px; border-radius:0;" 
-    alt="Visitor Count" 
-    title="Número de visitas ao perfil GitHub"/>
-</a>
+  
  
 </p>
 
@@ -39,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <a  href="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg"><img width="26" height="30" alt="C"           src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/30px-C_Programming_Language.svg.png?20201031132917"></a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
@@ -61,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  
 </div>
 
 <!-- Redes sociais -->
+
