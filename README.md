@@ -68,19 +68,19 @@
 </p>
 
 <!-- Estatístcas -->
-</br>
+
 
 <p align=center >
-  <img alt="GitHub Stats" height="900" src="https://github-readme-stats.vercel.app/api?username=Suanderson&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&border_radius=10&bg_color=202124&title_color=36BCF7FF&icon_color=36BCF7FF&rank_icon=github&ring_color=36BCF7FF"  />
+  <img alt="GitHub Stats" height="900" src="https://github-readme-stats.vercel.app/api?username=Suanderson&show_icons=true&theme=transparent&locale=pt-br&hide_border=false&border_radius=10&title_color=36BCF7FF&icon_color=36BCF7FF&rank_icon=github&ring_color=36BCF7FF"  />
  
-  <img alt="Top Languages" height="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suanderson&theme=transparent&hide_border=true&layout=compact&border_radius=10&langs_count=8&bg_color=202124&title_color=36BCF7FF&text_color=ffffff&icon_color=36BCF7FF&&locale=pt-br"  />
+  <img alt="Top Languages" height="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suanderson&theme=transparent&hide_border=false&layout=compact&border_radius=10&langs_count=8&title_color=36BCF7FF&text_color=ffffff&icon_color=36BCF7FF&&locale=pt-br"  />
 </p>
 
 
 
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suanderson&theme=react&line=006aff&bg_color=202124&border_radius=10&hide_border=true&point=35b2e8&title_color=36BCF7FF&color=36BCF7FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suanderson&theme=transparent&line=006aff&bg_color=0d1117&radius=10&hide_border=false&point=35b2e8&title_color=36BCF7FF&color=36BCF7FF)
 
   
    
