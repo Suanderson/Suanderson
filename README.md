@@ -5,7 +5,7 @@
 <!-- Nome em loop infinito -->
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=50&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Suanderson+Santos+Silva" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=50&pause=1000&repeat=false&duration=1&center=true&vCenter=true&width=1000&height=60&lines=Suanderson+Santos+Silva" alt="Typing SVG" /></a>
 
 <!-- Acessos -->
 
