@@ -68,16 +68,6 @@ z
  
 </p>
 
-<!-- Estatístcas -->
-
-
-<p align=center >
-  <img alt="GitHub Stats" height="900" src="https://github-readme-stats.vercel.app/api?username=Suanderson&show_icons=true&theme=transparent&locale=pt-br&hide_border=false&border_radius=10&title_color=36BCF7FF&icon_color=36BCF7FF&rank_icon=github&ring_color=36BCF7FF"  />
- 
-  <img alt="Top Languages" height="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suanderson&theme=transparent&hide_border=false&layout=compact&border_radius=10&langs_count=8&title_color=36BCF7FF&text_color=417e87&icon_color=36BCF7FF&&locale=pt-br"  />
-</p>
-
-
 
 
 
